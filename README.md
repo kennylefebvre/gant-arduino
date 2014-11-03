@@ -5,4 +5,4 @@ Gant arduino réalisé avec des senseurs de flexion pour capter les mouvements d
 
 Réalisé par Dominique Charbonneau et Kenny Lefebvre
 
-<img src="http://i.imgur.com/1rn0uRc.jpg?1" title="source: imgur.com" />
+<img src="http://i.imgur.com/k5bZAE6.jpg" title="source: imgur.com" />
