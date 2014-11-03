@@ -5,6 +5,8 @@ Gant arduino réalisé avec des senseurs de flexion pour capter les mouvements d
 
 Réalisé par Dominique Charbonneau et Kenny Lefebvre
 
+Inspiration : <a href="http://bit.ly/1DUgGtN">http://bit.ly/1DUgGtN</a>
+
 ============
 
 Notre projet consiste en un gant Arduino contenant des senseurs de flexibilité et qui permet de jouer à roche-papier-ciseau avec un programme. Dans notre scénarisation, le programme est susceptible et ne veut pas perdre. Ainsi, lorsque son pointage est supérieur, l'ordinateur consent à ne pas tricher (alors qu'il le pourrait) et à jouer selon les règles. Par contre, lorsqu'il perd, il décide de lire le mouvement de l'utilisateur avant de choisir le sien pour ainsi être certain de gagner.
@@ -41,6 +43,8 @@ Il est (toujours) conseillé de prototyper un circuit avant de le souder pour s'
 
 <img src="http://i.imgur.com/k5bZAE6.jpg" title="Circuit" />
 <img src="http://i.imgur.com/TPCOCM1.jpg" title="Circuit 2" />
+<img src="http://cdn.instructables.com/F5P/T9DK/HLIDBTKM/F5PT9DKHLIDBTKM.MEDIUM.jpg" title="Circuit 3" />
+(<a href="http://bit.ly/1DUgGtN">source du schéma du circuit</a>)
 
 Vous aurez peut-être besoin de souder des câbles aux senseurs de flexibilité afin de les insérer dans la planche de prototypage. Sinon, il faudra de toute façon en souder au moment de fixer les senseurs sur le gant. Assurez-vous cependant d'avoir une longueur suffisante pour que le câble se rende jusqu'à la base du gant une fois le senseur fixé.
 
